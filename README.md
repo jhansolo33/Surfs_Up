@@ -9,7 +9,7 @@
 
 ## Summary statistics for June:
 
- 
+ ![https://github.com/jhansolo33/Surfs_Up/blob/main/June%20Temperatures.png]
 
 
 
