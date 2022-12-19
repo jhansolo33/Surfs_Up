@@ -2,7 +2,7 @@
 ## An analysis of Weather Data in Oahy, Hawaii
 
 # Overview
-- A client, M Avy, wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+- A client, M Avy, wants more information about temperature trends before opening a surf shop in Oahu. Specifically, our client wants temperature data for the months of June and December in Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.
 - The project utilizes SQLalchemy queries on a SQLlite database to derive temperature data fom Oahu, Hawaii, for the months of June and December. The dataset spanned several years and summary statistics were aggregrated for June and December separately.
 
 # Results
@@ -22,4 +22,4 @@
 # Summary 
 
 - Both June and December show promising temperatures for recreational activities (surfing, ice cream)
-- December's minimum temparature (56 F) indicates that it can be cold enough to discourage outdoor activities, however the similar mean and maximum temperature to June indicates that there is enough fluctuation in the temperature to encourage it on certain days
+- December's minimum temparature (56 F) indicates that it can be cold enough to discourage outdoor activities, however the similar mean and maximum temperature to June indicates that there is enough consistency to encourage opening the surf and ice cream shop.
