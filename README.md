@@ -1,9 +1,9 @@
 # Surfs_Up
-## An analysis of Weather Data in Oahy, Hawaii
+## An analysis of Weather Data in Oahu, Hawaii
 
 # Overview
 - A client, M Avy, wants more information about temperature trends before opening a surf shop in Oahu. Specifically, our client wants temperature data for the months of June and December in Oahu, in order to determine if a surf and ice cream shop business is sustainable year-round.
-- The project utilizes SQLalchemy queries on a SQLlite database to derive temperature data fom Oahu, Hawaii, for the months of June and December. The dataset spanned several years and summary statistics were aggregrated for June and December separately.
+- The project utilizes SQLalchemy queries on a SQLlite database to derive temperature data fom Oahu, Hawaii, for the months of June and December. The dataset that was compiled spanned several years and summary statistics were aggregrated for June and December separately.
 
 # Results
 
