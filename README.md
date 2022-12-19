@@ -9,13 +9,13 @@
 
 ## Summary statistics for June:
 
-![JuneTemps](https://user-images.githubusercontent.com/119264589/208441159-cd7ec5c1-9ca0-4a5b-8080-82d7018553cd.png)
+
 
 
 ## Summary statistics for December:
 
 
-![DecemberTemps](https://user-images.githubusercontent.com/119264589/208441047-27c49824-af02-4a9c-a4c6-c7e56ec58799.png)
+
 
 
 
