@@ -9,15 +9,13 @@
 
 ## Summary statistics for June:
 
- ![https://github.com/jhansolo33/Surfs_Up/blob/main/June%20Temperatures.png]
+ ![image](https://github.com/jhansolo33/Surfs_Up/blob/main/June%20Temperatures.png)
 
 
 
 ## Summary statistics for December:
 
-https://github.com/jhansolo33/Surfs_Up/blob/main/DecemberTemps.png
-
-
+![image](https://github.com/jhansolo33/Surfs_Up/blob/main/DecemberTemps.png)
 
 
 
